@@ -1,2 +1,2 @@
 # Java-FloatyKite
-Final Project for my Object Oriented Programming class. 
+Similar to the game flappy bird built using javax.swing 
